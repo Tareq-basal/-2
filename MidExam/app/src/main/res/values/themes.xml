@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MidExam" parent="Theme.Material3.DayNight">
+    </style>
+
+    <style name="Theme.MidExam" parent="Base.Theme.MidExam" />
+</resources>
